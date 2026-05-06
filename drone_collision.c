@@ -1,5 +1,9 @@
 /**
  * ============================================================
+ * LIEN GITHUB — LIVRABLE 1
+ * https://github.com/chourouk-ibrahimi/Projet-Industriel/blob/main/drone_collision.c
+ * ============================================================
+ *
  * SYSTÈME DE DÉTECTION DE COLLISION POUR ESSAIM AUTONOME (UAV)
  * École des Sciences de l'Information — Programmation Avancée en C
  * Pr. Tarik HOUICHIME — Projet Industriel
